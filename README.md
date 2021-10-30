@@ -1,12 +1,7 @@
 # uts
 
 ![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/dashboard.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/dashboard1.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/daftar%20pegawai.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/entry%20form%20pegwai.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/entry%20form%20gaji%20pegwai.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/riwayat%20gaji%20pegawai.JPG)
-![alt text](https://github.com/room2468/08-uts-oniauliya99/blob/master/uts/hasil/detail%20gaji%20pegawai.JPG)
+
 
 
 ## Getting Started
